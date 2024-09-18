@@ -4,4 +4,4 @@ Welcome to the Coffee Shop Sales Data Analysis project repository! This project 
 
 **Dataset Used**
 
-he dataset was collected from Kaggle.com < a href-"https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales">
+The dataset was collected from Kaggle.com - "https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales"
